@@ -9,10 +9,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "create-react-boilerplate-setup": "^1.0.6"
-  }
+  "keywords": ["React","React setup with vite", "redux setup"],
+  "github":"https://github.com/parvej-khan-dev/react-frontend-boilerplate",
+  "author": "Parvej khan",
+  "license": "ISC"
 }
